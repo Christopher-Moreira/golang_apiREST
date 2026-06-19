@@ -1,0 +1,15 @@
+.git
+.gocache
+bin
+
+.env
+.env.*
+!.env.example
+
+Dockerfile
+docker-compose.yaml
+relatorio-obisidian.md
+
+*.exe
+*.test
+coverage.out
