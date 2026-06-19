@@ -15,7 +15,8 @@ http:
         "location": "New York",
         "remote": true,
         "link":"teste.com",
-        "salary": 3000
+        "salary": 4000
+
       }
   auth: inherit
 
